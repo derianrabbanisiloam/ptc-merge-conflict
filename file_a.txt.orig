@@ -1,0 +1,8 @@
+Hallo ini adalah master file a - file 3
+Hallo ini adalah master file a - file 4
+<<<<<<< HEAD
+Hallo ini adalah master file a - file 5 - based on branch 6
+Hallo ini adalah master file a - file 6
+=======
+Hallo ini adalah master file a - file 5-branch
+>>>>>>> main
